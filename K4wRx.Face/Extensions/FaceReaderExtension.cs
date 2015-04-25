@@ -7,7 +7,7 @@ using Microsoft.Kinect;
 using K4wRx.Extensions;
 using Microsoft.Kinect.Face;
 
-namespace K4wRx.Extensions
+namespace K4wRx.Face.Extensions
 {
     public static class FaceReaderExtension
     {
